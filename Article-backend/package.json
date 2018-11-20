@@ -1,0 +1,27 @@
+{
+  "name": "nodejsbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "extend": "^3.0.2",
+    "jsonwebtoken": "^8.3.0",
+    "jwt-simple": "^0.5.5",
+    "merge-json": "0.1.0-b.3",
+    "morgan": "^1.9.1",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.0",
+    "response": "^0.18.0",
+    "sequelize": "^4.41.0",
+    "sqlite3": "^4.0.3"
+  }
+}
